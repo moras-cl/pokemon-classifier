@@ -11,6 +11,8 @@ __pycache__/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
+demonstration/
+pokemondataset/
 
 # Archivos de sistema y VS Code
 .vscode/
